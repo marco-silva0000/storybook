@@ -57,6 +57,9 @@
     "telejson": "^2.2.1",
     "util-deprecate": "^1.0.2"
   },
+  "peerDependencies": {
+    "@storybook/channels": "^5.1.9"
+  },
   "devDependencies": {
     "corejs-upgrade-webpack-plugin": "^2.0.0",
     "flush-promises": "^1.0.2",
